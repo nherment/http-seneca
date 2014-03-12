@@ -1,0 +1,17 @@
+{
+  "name": "http-salestax",
+  "version": "0.1.0",
+  "description": "",
+  "main": "http-salestax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "seneca": "0.5.15",
+    "seneca-hapi": "0.1.0",
+    "hapi": "2.6.0",
+    "seneca-salestax": ">=0.1.2"
+  }
+}
